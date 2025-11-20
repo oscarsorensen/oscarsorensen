@@ -1,16 +1,19 @@
 # Oscar Sørensen
 
-Student of Web Applications Development (DAW/DAM) in Valencia.  
+Web Applications Development student (DAW/DAM) in Valencia.  
 Focused on fullstack development, databases, Python, and modern web technologies.
 
 ---
 
-## Technologies
+## Stack
 
-Backend: Python, PHP  
-Frontend: HTML, CSS, JavaScript 
-Databases:  
-Tools: Git, GitHub, VS Code, PyCharm, Linux, Windows Server
+Languages: Python, JavaScript, SQL  
+Backend: Python (OOP, CRUD), PHP -> soon  
+Frontend: HTML, CSS, JavaScript (DOM, Fetch)  
+Database: MySQL (DDL, DML, joins, views)  
+Tools: Git, GitHub, VS Code, PyCharm  
+Platforms: Linux, Windows Server
+
 
 ---
 
