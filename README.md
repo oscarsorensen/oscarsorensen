@@ -36,4 +36,8 @@ https://github.com/oscarsorensen/Todo-CEAC/tree/main/Lenguaje%20de%20Marcas/DOM%
 Windows Server, RDP configuration, IP management, and basic networking practices.  
 https://github.com/oscarsorensen/Todo-CEAC/tree/main/Sistemas%20Informaticos
 
+## Curriculum Vitae
+
+[View my online CV](https://oscarsorensen.github.io/OscarsCV/)
+
 ---
