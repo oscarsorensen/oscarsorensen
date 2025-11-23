@@ -1,7 +1,8 @@
 # Oscar Sørensen
-
-Web Applications Development student (DAW/DAM) in Valencia.  
-Focused on fullstack development, databases, Python, and modern web technologies.
+<div align="center">
+<p>Web Applications Development student (DAW/DAM) in Valencia.</p>
+<p>Focused on fullstack development, databases, Python, and modern web technologies.</p>
+</div>
 
 <div align="center">
   <img 
