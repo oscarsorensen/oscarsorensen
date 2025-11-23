@@ -63,9 +63,20 @@ https://github.com/oscarsorensen/Todo-CEAC/tree/main/Sistemas%20Informaticos
 
 <div align="center">
   <a href="https://oscarsorensen.github.io/OscarsCV/" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/View%20CV-000000?style=for-the-badge&logo=readme&logoColor=white" height="300">
+    <div style="
+      display:inline-block;
+      padding: 25px 60px;
+      background:#1F6FEB;
+      color:white;
+      font-size:40px;
+      border-radius:12px;
+      font-family:Arial, sans-serif;
+      ">
+      View CV
+    </div>
   </a>
 </div>
+
 
 ---
 <p align="center">
