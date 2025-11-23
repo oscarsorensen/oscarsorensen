@@ -37,7 +37,7 @@ Focused on fullstack development, databases, Python, and modern web technologies
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?logo=windows&logoColor=white)
 
 
-<div align="center">
+<div>
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2xpZDlkYjI4Y2tzdXA2M3o4OHg1dm5rbWNhaXhsN2diajZrdG5odCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" width="260">
 </div>
 
