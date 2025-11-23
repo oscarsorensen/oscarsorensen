@@ -61,7 +61,11 @@ https://github.com/oscarsorensen/Todo-CEAC/tree/main/Sistemas%20Informaticos
 
 ## Curriculum Vitae
 
-[View my online CV](https://oscarsorensen.github.io/OscarsCV/)
+<div align="center">
+  <a href="https://oscarsorensen.github.io/OscarsCV/" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/View%20CV-000000?style=for-the-badge&logo=readme&logoColor=white" height="40">
+  </a>
+</div>
 
 ---
 <p align="center">
