@@ -4,8 +4,9 @@
 
 <div align="center">
 <p>Web Applications Development student (DAW/DAM) in Valencia.</p>
-<p>Focused on fullstack development, databases, Python, and modern web technologies. Currently building projects with Python, MySQL, Flask, and JavaScript.</p>
-<p> Efficency over everything. </P>
+<p>Focused on fullstack development, databases, Python, and modern web technologies.</p>
+<p>Currently building projects with Python, MySQL, Flask, and JavaScript.</p>
+<p>Interested in backend logic, clean architecture, and practical real-world applications.</p>
 <br>
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2xpZDlkYjI4Y2tzdXA2M3o4OHg1dm5rbWNhaXhsN2diajZrdG5odCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" width="260"> <br>
 <br>
