@@ -22,7 +22,9 @@
 ---
 ## Stack
 
-<table align="center">
+<div align="center">
+
+<table>
 
   <tr>
     <td align="center" width="120" style="background:#2A2A2A; border-radius:12px; padding:10px;">
@@ -42,35 +44,7 @@
       SQL
     </td>
     <td align="center" width="120" style="background:#2A2A2A; border-radius:12px; padding:10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/><br>
-      HTML5
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="120" style="background:#2A2A2A; border-radius:12px; padding:10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/><br>
-      CSS3
-    </td>
-    <td align="center" width="120" style="background:#2A2A2A; border-radius:12px; padding:10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50"/><br>
-      Flask
-    </td>
-    <td align="center" width="120" style="background:#2A2A2A; border-radius:12px; padding:10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/><br>
-      Git
-    </td>
-    <td align="center" width="120" style="background:#2A2A2A; border-radius:12px; padding:10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/><br>
-      GitHub
-    </td>
-    <td align="center" width="120" style="background:#2A2A2A; border-radius:12px; padding:10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/><br>
-      VS Code
-    </td>
-  </tr>
-</table>
-
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-orig
 
 ---
 
