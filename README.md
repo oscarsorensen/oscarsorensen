@@ -3,6 +3,9 @@
 Web Applications Development student (DAW/DAM) in Valencia.  
 Focused on fullstack development, databases, Python, and modern web technologies.
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oscarsorensen&layout=compact&theme=tokyonight)
+
+
 ---
 
 ## Stack
@@ -14,9 +17,8 @@ Database: MySQL (DDL, DML, joins, views)
 Tools: Git, GitHub, VS Code, PyCharm  
 Platforms: Linux, Windows Server
 
-![Oscar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oscarsorensen&show_icons=true&theme=tokyonight)
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJqNHJqemV0dTFsbXFya3pkNjk4a2JhYjFtdmJ6Z3RtbGg5Zzl5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u2pmTWUi0MXjyrMaVj/giphy.gif" width="400">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oscarsorensen&layout=compact&theme=tokyonight)
 
 ---
 
@@ -45,5 +47,9 @@ https://github.com/oscarsorensen/Todo-CEAC/tree/main/Sistemas%20Informaticos
 ## Curriculum Vitae
 
 [View my online CV](https://oscarsorensen.github.io/OscarsCV/)
+
+
+![Oscar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oscarsorensen&show_icons=true&theme=tokyonight)
+
 
 ---
