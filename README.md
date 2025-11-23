@@ -69,7 +69,7 @@ https://github.com/oscarsorensen/Todo-CEAC/tree/main/Sistemas%20Informaticos
 
 [View my online CV](https://oscarsorensen.github.io/OscarsCV/)
 
---
+---
 
 ![Oscar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oscarsorensen&show_icons=true&theme=tokyonight)
 
