@@ -23,6 +23,7 @@
 ## Stack
 
 <table align="center">
+
   <tr>
     <td align="center" width="120" style="background:#1E1E1E; border-radius:12px; padding:10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/><br>
@@ -37,15 +38,19 @@
       MySQL
     </td>
     <td align="center" width="120" style="background:#1E1E1E; border-radius:12px; padding:10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" width="50"/><br>
+      SQL
+    </td>
+    <td align="center" width="120" style="background:#1E1E1E; border-radius:12px; padding:10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/><br>
       HTML5
     </td>
+  </tr>
+  <tr>
     <td align="center" width="120" style="background:#1E1E1E; border-radius:12px; padding:10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/><br>
       CSS3
     </td>
-  </tr>
-  <tr>
     <td align="center" width="120" style="background:#1E1E1E; border-radius:12px; padding:10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50"/><br>
       Flask
@@ -61,10 +66,6 @@
     <td align="center" width="120" style="background:#1E1E1E; border-radius:12px; padding:10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/><br>
       VS Code
-    </td>
-    <td align="center" width="120" style="background:#1E1E1E; border-radius:12px; padding:10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/><br>
-      Linux
     </td>
   </tr>
 </table>
