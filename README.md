@@ -3,7 +3,13 @@
 Web Applications Development student (DAW/DAM) in Valencia.  
 Focused on fullstack development, databases, Python, and modern web technologies.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oscarsorensen&layout=compact&theme=tokyonight)
+<div align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarsorensen&layout=compact&theme=tokyonight&card_width=320" 
+    width="320"
+  >
+</div>
+
 
 
 ---
