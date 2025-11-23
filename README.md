@@ -39,12 +39,12 @@
 
 ## Featured Projects
 
-### 1. Python CRUD Application (MySQL)
+### 1. Python CRUD Application (In MySQL)
 
 Menu-based console program that performs CRUD operations directly on a MySQL database using Python.  
 https://github.com/oscarsorensen/Todo-CEAC/blob/main/z.Exams/1.Tri-Exam/2Prog/examprog.py
 
-### 2. SQL Blog/Portfolio Database (MySQL)
+### 2. SQL Blog/Portfolio Database
 
 Relational MySQL database with normalized tables, foreign keys, sample data, LEFT JOIN queries and a reusable view.
 Includes full SQL workflow: creation of schema, relationships, CRUD operations, and user permissions.
@@ -59,7 +59,7 @@ https://github.com/oscarsorensen/Todo-CEAC/blob/main/z.Exams/1.Tri-Exam/3LDM/EXA
 Dynamic webpage that loads JSON data and updates the interface using the DOM API.  
 https://github.com/oscarsorensen/Todo-CEAC/blob/main/Proyecto%20Intermodular/102-%20ejercicios%20practicos%20segundo%20trimestre/102%20Leer%20JSON/004%20modelo%20mas%20completo/002%20platilla%20fetch.html
 
-### 5. Flask Backoffice (Python + MySQL)
+### 5. Flask Application (Python + MySQL)
 Small Flask-based backoffice application built with Python, Jinja templates and a MySQL database.
 Demonstrates backend routing, dynamic template rendering, and real database interaction using SQL queries.
 
