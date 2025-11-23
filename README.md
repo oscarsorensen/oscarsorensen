@@ -14,6 +14,9 @@ Database: MySQL (DDL, DML, joins, views)
 Tools: Git, GitHub, VS Code, PyCharm  
 Platforms: Linux, Windows Server
 
+![Oscar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oscarsorensen&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oscarsorensen&layout=compact&theme=tokyonight)
 
 ---
 
