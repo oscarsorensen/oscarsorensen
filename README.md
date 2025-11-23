@@ -1,22 +1,13 @@
 # Oscar Sørensen
 
-<div>
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2xpZDlkYjI4Y2tzdXA2M3o4OHg1dm5rbWNhaXhsN2diajZrdG5odCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" width="260">
-</div>
+
 
 <div align="center">
 <p>Web Applications Development student (DAW/DAM) in Valencia.</p>
 <p>Focused on fullstack development, databases, Python, and modern web technologies.</p>
-
+<br>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2xpZDlkYjI4Y2tzdXA2M3o4OHg1dm5rbWNhaXhsN2diajZrdG5odCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" width="260">
 </div>
-
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarsorensen&layout=compact&theme=tokyonight&card_width=320" 
-    width="320"
-  >
-</div>
-
 
 
 ---
