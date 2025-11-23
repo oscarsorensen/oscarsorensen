@@ -17,7 +17,7 @@
 ![Oscar's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=oscarsorensen&theme=tokyo-night) 
 
 </div>
-
+---
 ## Stack
 
 <table align="center">
