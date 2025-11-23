@@ -63,7 +63,7 @@ https://github.com/oscarsorensen/Todo-CEAC/tree/main/Sistemas%20Informaticos
 
 <div align="center">
   <a href="https://oscarsorensen.github.io/OscarsCV/" target="_blank">
-    <img src="noname3.png" height="110">
+    <img src="noname3.png" height="80">
   </a>
 </div>
 
