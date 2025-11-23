@@ -62,20 +62,12 @@ https://github.com/oscarsorensen/Todo-CEAC/tree/main/Sistemas%20Informaticos
 ## Curriculum Vitae
 
 <div align="center">
-  <a href="https://oscarsorensen.github.io/OscarsCV/" target="_blank" style="text-decoration:none;">
-    <div style="
-      display:inline-block;
-      padding: 25px 60px;
-      background:#1F6FEB;
-      color:white;
-      font-size:40px;
-      border-radius:12px;
-      font-family:Arial, sans-serif;
-      ">
-      View CV
-    </div>
+  <a href="https://oscarsorensen.github.io/OscarsCV/" target="_blank">
+    <img src="https://raw.githubusercontent.com/oscarsorensen/oscarsorensen/main/view_cv_button_round_20percent.png" width="500">
   </a>
 </div>
+
+
 
 
 ---
