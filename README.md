@@ -22,7 +22,7 @@
 ---
 ## Stack
 
-<table>
+<table align="center">
   <tr>
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/><br>
