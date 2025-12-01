@@ -83,10 +83,7 @@ https://github.com/oscarsorensen/Todo-CEAC/blob/main/Proyecto%20Intermodular/102
 
 
 ---
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarsorensen&layout=compact&theme=tokyonight&card_width=300" height="160">
-  <img src="https://github-readme-stats.vercel.app/api?username=oscarsorensen&show_icons=true&theme=tokyonight&hide_rank=false" height="160">
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarsorensen&layout=compact&theme=tokyonight&card_width=300" style="height:160px;"> <img src="https://github-readme-stats.vercel.app/api?username=oscarsorensen&show_icons=true&theme=tokyonight&hide_rank=false" style="height:160px;"> </p>
 
 
 ---
