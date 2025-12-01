@@ -42,47 +42,6 @@
 </table>
 
 ---
-
-## Featured Projects
-
-### 1. Python CRUD Application (In MySQL)
-
-Menu-based console program that performs CRUD operations directly on a MySQL database using Python.  
-https://github.com/oscarsorensen/Todo-CEAC/blob/main/z.Exams/1.Tri-Exam/2Prog/examprog.py
-
-### 2. SQL Blog/Portfolio Database
-
-Relational MySQL database with normalized tables, foreign keys, sample data, LEFT JOIN queries and a reusable view.
-Includes full SQL workflow: creation of schema, relationships, CRUD operations, and user permissions.
-
-https://github.com/oscarsorensen/Todo-CEAC/blob/main/z.Exams/1.Tri-Exam/1BDD/examfixed.sql
-
-### 3. HTML/CSS Blog Template
-Clean responsive blog layout using semantic HTML and structured CSS.  
-https://github.com/oscarsorensen/Todo-CEAC/blob/main/z.Exams/1.Tri-Exam/3LDM/EXAM.LDM.html
-
-### 4. JavaScript DOM + Fetch Project
-Dynamic webpage that loads JSON data and updates the interface using the DOM API.  
-https://github.com/oscarsorensen/Todo-CEAC/blob/main/Proyecto%20Intermodular/102-%20ejercicios%20practicos%20segundo%20trimestre/102%20Leer%20JSON/004%20modelo%20mas%20completo/002%20platilla%20fetch.html
-
-### 5. Flask Application (Python + MySQL)
-Small Flask-based backoffice application built with Python, Jinja templates and a MySQL database.
-Demonstrates backend routing, dynamic template rendering, and real database interaction using SQL queries.
-
-https://github.com/oscarsorensen/Todo-CEAC/blob/main/Proyecto%20Intermodular/102-%20ejercicios%20practicos%20segundo%20trimestre/103%20Jinja/006%20backoffice%20con%20mysql.py
-
-## Curriculum Vitae
-
-<div align="center">
-  <a href="https://oscarsorensen.github.io/OscarsCV/" target="_blank">
-    <img src="noname3.png" height="80">
-  </a>
-</div>
-
-
-
-
----
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarsorensen&layout=compact&theme=tokyonight&card_width=300" style="height:160px;"> <img src="https://github-readme-stats.vercel.app/api?username=oscarsorensen&show_icons=true&theme=tokyonight&hide_rank=false" style="height:160px;"> </p>
 
 
