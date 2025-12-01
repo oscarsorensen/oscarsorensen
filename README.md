@@ -49,6 +49,9 @@
   <a href="https://oscarsorensen.github.io/OscarsCV/" target="_blank">
     <img src="noname3.png" height="80">
   </a>
+    <a href="https://oscarsorensen.github.io/Portafolio/" target="_blank">
+    <img src="buttonportafolio.png" height="80">
+  </a>
 </div>
 
 
