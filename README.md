@@ -11,8 +11,6 @@
   </p>
 
 <br>
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2xpZDlkYjI4Y2tzdXA2M3o4OHg1dm5rbWNhaXhsN2diajZrdG5odCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" width="260"> <br>
-<br>
 
 ![Oscar's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=oscarsorensen&theme=tokyo-night) 
 
@@ -65,6 +63,10 @@
   />
 </p>
 
+---
 
+
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2xpZDlkYjI4Y2tzdXA2M3o4OHg1dm5rbWNhaXhsN2diajZrdG5odCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" width="260"> <br>
+<br>
 
 ---
