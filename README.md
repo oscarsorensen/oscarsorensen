@@ -57,9 +57,16 @@
 
 ---
 <p align="center"> 
-  <img src="https://github-readme-stats-oscar.vercel.app/api/top-langs/?username=oscarsorensen&layout=compact&theme=tokyonight&card_width=300" style="height:160px;"> 
-  <img src="https://github-readme-stats-oscar.vercel.app/api?username=oscarsorensen&show_icons=true&theme=tokyonight&hide_rank=false" style="height:160px;"> 
+  <img
+    src="https://github-readme-stats-oscar.vercel.app/api/top-langs/?username=oscarsorensen&layout=compact&theme=tokyonight&card_width=430"
+    width="430"
+  />
+  <img
+    src="https://github-readme-stats-oscar.vercel.app/api?username=oscarsorensen&show_icons=true&theme=tokyonight&hide_rank=false&include_all_commits=true"
+    width="430"
+  />
 </p>
+
 
 
 
