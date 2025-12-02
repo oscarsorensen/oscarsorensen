@@ -63,7 +63,7 @@
   />
   <img
     src="https://github-readme-stats-oscar.vercel.app/api?username=oscarsorensen&show_icons=true&theme=tokyonight&hide_rank=false&include_all_commits=true"
-    width="385"
+    width="400"
   />
 </p>
 
