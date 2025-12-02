@@ -44,7 +44,6 @@
 ---
 
 ## Curriculum Vitae & Portafolio
-
 <div align="center">
   <a href="https://oscarsorensen.github.io/OscarsCV/" target="_blank">
     <img src="noname3.png" height="80" style="margin-right: 20px;">
@@ -53,9 +52,6 @@
     <img src="buttonportafolio.png" height="80">
   </a>
 </div>
-
-
-
 
 ---
 <p align="center"> 
