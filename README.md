@@ -58,16 +58,14 @@
 ---
 <p align="center"> 
   <img
-    src="https://github-readme-stats-oscar.vercel.app/api/top-langs/?username=oscarsorensen&layout=compact&theme=tokyonight&card_width=330"
-    width="330"
+    src="https://github-readme-stats-oscar.vercel.app/api/top-langs/?username=oscarsorensen&layout=compact&theme=tokyonight&card_width=380"
+    width="380"
   />
   <img
     src="https://github-readme-stats-oscar.vercel.app/api?username=oscarsorensen&show_icons=true&theme=tokyonight&hide_rank=false&include_all_commits=true"
-    width="330"
+    width="380"
   />
 </p>
-
-
 
 
 
