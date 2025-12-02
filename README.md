@@ -45,17 +45,16 @@
 
 ## Curriculum Vitae & Portafolio
 
-<p align="center"> 
-  <img
-    src="https://github-readme-stats-oscar.vercel.app/api/top-langs/?username=oscarsorensen&layout=compact&theme=tokyonight&card_width=330"
-    width="330"
-    style="margin-right: 20px;"
-  />
-  <img
-    src="https://github-readme-stats-oscar.vercel.app/api?username=oscarsorensen&show_icons=true&theme=tokyonight&hide_rank=false&include_all_commits=true"
-    width="330"
-  />
-</p>
+<div align="center">
+  <a href="https://oscarsorensen.github.io/OscarsCV/" target="_blank">
+    <img src="noname3.png" height="80" style="margin-right: 20px;">
+  </a><!--
+  --><a href="https://oscarsorensen.github.io/Portafolio/" target="_blank">
+    <img src="buttonportafolio.png" height="80">
+  </a>
+</div>
+
+
 
 
 ---
