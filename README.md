@@ -1,46 +1,106 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=110&section=header)
+
 # Oscar Sørensen
 
 <div align="center">
-  <p>
-    Danish, based in Spain. First-year DAW student, currently on practicas at <a href="https://mandaa.eu" target="_blank">Mandaa EUmail</a>.<br>
-    I build things that solve concrete problems — mostly backend-heavy, database-driven, with some AI tooling where it earns its place.<br>
-    I think before I code. I use AI as a tool I direct, not a crutch I lean on.
-  </p>
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+<br>
+
+Danish, based in Spain. First-year DAW student, currently on practicas at <a href="https://mandaa.eu" target="_blank">Mandaa EUmail</a>.<br>
+I build things that solve concrete problems — mostly backend-heavy, database-driven, with AI tooling where it earns its place.<br>
+I think before I code. I use AI as a tool I direct, not a crutch I lean on.
+
 </div>
 
 ---
 
 ## Projects
 
-**[FirstListing](https://github.com/oscarsorensen/FirstListing)** — B2B SaaS for the Spanish real estate market
-Detects when property listings are copied across portals and identifies original authorship. Full 4-step pipeline: crawl → OpenAI structured extraction from raw HTML → SQL duplicate scoring → AI description comparison. Includes an admin dashboard with real-time log streaming, role-based auth, PID-based process management, and a subscription model schema.
-`PHP` `Python` `MySQL` `OpenAI GPT-4.1-mini`
+**FirstListing** — B2B SaaS for the Spanish real estate market
 
-**[AI-Oscar 2.0](https://github.com/oscarsorensen/AI-Oscar)** — Personal AI persona system
-Python HTTP server with a custom RAG architecture: JSONL knowledge base, ranked retrieval using SequenceMatcher + token overlap scoring, Ollama for local LLM inference, PHP control interface for process management.
-`Python` `Ollama` `ChromaDB` `PHP`
+Detects when property listings are copied across portals and identifies original authorship. 4-step pipeline: crawl → OpenAI structured extraction from raw HTML → SQL duplicate scoring → AI description comparison. Admin dashboard with real-time log streaming, role-based auth, PID process management.
 
-**[ChamitosMC](https://github.com/oscarsorensen/ChamitosMC)** — Group movie club platform
-Full CRUD, session auth with password_hash, admin backend, SQL views for rating aggregation, foreign keys with CASCADE.
-`PHP` `MySQL`
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![GPT-4.1-mini](https://img.shields.io/badge/GPT--4.1--mini-412991?style=flat-square&logo=openai&logoColor=white)
+
+**AI-Oscar 2.0** — Personal AI persona system
+
+Python HTTP server with a custom RAG architecture: JSONL knowledge base, ranked retrieval via SequenceMatcher + token overlap scoring, Ollama for local LLM inference, PHP control interface for process management.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-2D2D2D?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+**ChamitosMC** — Group movie club platform
+
+Full CRUD, session auth, admin backend, SQL views for rating aggregation, foreign keys with CASCADE.
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ---
 
 ## Stack
 
-| | |
-|---|---|
-| **Languages** | PHP · Python · JavaScript · HTML5 · CSS3 |
-| **Databases** | MySQL/MariaDB — joins, views, stored procedures, normalization, schema design |
-| **Backend** | Flask · PDO with parameterized queries · session auth · role-based access |
-| **AI / ML** | OpenAI API (structured extraction, JSON prompt engineering) · Ollama · basic RAG (ChromaDB + sentence_transformers) |
-| **Tooling** | Git · shell scripting · PID management · real-time log polling |
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/><br>PHP
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br>Python
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br>JavaScript
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/><br>HTML5
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/><br>CSS3
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br>MySQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/><br>Flask
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br>Git
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openai/openai-original.svg" width="40"/><br>OpenAI
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/><br>GitHub
+    </td>
+  </tr>
+</table>
+</div>
 
 ---
 
 ## Currently
 
-Doing practicas at **Mandaa EUmail** — enterprise transactional email platform. Picking up Vue 3 + TypeScript, Symfony, and Docker on the job. Laravel is next on my own time.
+On practicas at **Mandaa EUmail** — enterprise transactional email platform. Picking up:
+
+![Vue 3](https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
@@ -69,3 +129,5 @@ Doing practicas at **Mandaa EUmail** — enterprise transactional email platform
     width="395"
   />
 </p>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=80&section=footer)
