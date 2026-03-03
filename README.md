@@ -13,8 +13,8 @@
 <br>
 
 Danish, based in Spain. First-year DAW student, currently on practicas at <a href="https://mandaa.eu" target="_blank">Mandaa EUmail</a>.<br>
-I build things that solve concrete problems — mostly backend-heavy, database-driven, with AI tooling where it earns its place.<br>
-I think before I code. I use AI as a tool I direct, not a crutch I lean on.
+I build things that solve problems — mostly backend-heavy, database-driven, with AI tooling where it earns its place.<br>
+I think before I code and use AI as a tool I direct.
 
 </div>
 
@@ -107,12 +107,11 @@ On practicas at **Mandaa EUmail** — enterprise transactional email platform. P
 ## CV & Portfolio
 
 <div align="center">
-  <a href="https://oscarsorensen.github.io/OscarsCV/" target="_blank">
-    <img src="noname3.png" height="80" style="margin-right: 20px;">
-  </a><!--
-  --><a href="https://oscarsorensen.github.io/Portafolio/" target="_blank">
-    <img src="buttonportafolio.png" height="80">
-  </a>
+
+[![Curriculum Vitae](https://img.shields.io/badge/Curriculum_Vitae-7aa2f7?style=for-the-badge&logo=readme&logoColor=white)](https://oscarsorensen.github.io/OscarsCV/)
+&nbsp;&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-bb9af7?style=for-the-badge&logo=github&logoColor=white)](https://oscarsorensen.github.io/Portafolio/)
+
 </div>
 
 ---
