@@ -14,7 +14,6 @@
 
 Danish, based in Spain. First-year DAW student, currently on practicas at <a href="https://mandaa.eu" target="_blank">Mandaa EUmail</a>.<br>
 I build things that solve problems — mostly backend-heavy, database-driven, with AI tooling where it earns its place.<br>
-I think before I code and use AI as a tool I direct.
 
 </div>
 
