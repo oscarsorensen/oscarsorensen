@@ -81,7 +81,7 @@ Full CRUD, session auth, admin backend, SQL views for rating aggregation, foreig
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br>Git
     </td>
     <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openai/openai-original.svg" width="40"/><br>OpenAI
+      <img src="https://cdn.simpleicons.org/openai/412991" width="40"/><br>AI
     </td>
     <td align="center" width="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/><br>GitHub
