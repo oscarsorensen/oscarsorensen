@@ -116,7 +116,6 @@ On practicas at **Mandaa EUmail** — enterprise transactional email platform. P
 
 ---
 
-![Oscar's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=oscarsorensen&theme=tokyo-night)
 
 <p align="center">
   <img
