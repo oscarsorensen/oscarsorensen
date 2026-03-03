@@ -117,15 +117,6 @@ On practicas at **Mandaa EUmail** — enterprise transactional email platform. P
 ---
 
 
-<p align="center">
-  <img
-    src="https://github-readme-stats-oscar.vercel.app/api/top-langs/?username=oscarsorensen&layout=compact&theme=tokyonight&card_width=380"
-    width="380"
-  />
-  <img
-    src="https://github-readme-stats-oscar.vercel.app/api?username=oscarsorensen&show_icons=true&theme=tokyonight&hide_rank=false&include_all_commits=true"
-    width="395"
-  />
-</p>
+![Oscar's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=oscarsorensen&theme=tokyo-night)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=80&section=footer)
