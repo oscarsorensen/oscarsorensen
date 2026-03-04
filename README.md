@@ -80,7 +80,7 @@ Full CRUD, session auth, admin backend, SQL views for rating aggregation, foreig
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br>Git
     </td>
     <td align="center" width="90">
-      <img src="ai-icon.svg" width="40"/><br>AI
+      <img src="ai-icon.svg" width="35"/><br>AI
     </td>
     <td align="center" width="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/><br>GitHub
