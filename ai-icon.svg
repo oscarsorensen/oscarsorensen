@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 35 35" width="35" height="35">
-  <rect x="5" y="5" width="25" height="25" rx="8" fill="#6e40c9"/>
-  <text x="17.5" y="18" dominant-baseline="middle" text-anchor="middle"
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" width="40" height="40">
+  <rect width="40" height="40" rx="8" fill="#6e40c9"/>
+  <text x="50%" y="54%" dominant-baseline="middle" text-anchor="middle"
     font-family="Arial, sans-serif" font-weight="bold" font-size="16"
     fill="white" letter-spacing="1">AI</text>
 </svg>
