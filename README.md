@@ -12,7 +12,7 @@
 
 <br>
 
-Danish, based in Spain. First-year DAW student, currently on practicas at <a href="https://mandaa.io/en/" target="_blank">Mandaa EUmail</a>.<br>
+Danish, based in Spain. Second-year DAW student, and working at <a href="https://mandaa.io/en/" target="_blank">Mandaa EUmail</a>.<br>
 I build things that solve problems — mostly backend-heavy, database-driven, with AI tooling where it earns its place.<br>
 
 </div>
