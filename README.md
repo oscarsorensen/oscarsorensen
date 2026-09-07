@@ -115,7 +115,4 @@ On practicas at **Mandaa EUmail** — enterprise transactional email platform. P
 
 ---
 
-
-![Oscar's Contribution Graph](https://ghchart.rshah.org/7aa2f7/oscarsorensen)
-
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=80&section=footer)
